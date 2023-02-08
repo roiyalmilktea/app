@@ -1,0 +1,1 @@
+CREATE table samplelist(name text, detail text);
